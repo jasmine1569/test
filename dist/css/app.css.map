@@ -1,0 +1,1 @@
+{"version":3,"sources":["_helpers.scss","_variables.scss"],"names":[],"mappings":"AAAA;EACC,0BCDoB;CDEpB","file":"app.css","sourcesContent":[".bg--light-white{\n\tbackground-color: $light-white;\n}","$light-white: #FAFAFA;"]}
